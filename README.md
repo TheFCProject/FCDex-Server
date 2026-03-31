@@ -20,4 +20,4 @@ The official economy engine for the **FCDex Ecosystem**. Built with **TypeScript
 * **Design:** Photopea-crafted assets for futuristic branding.
 
 ## 🛡️ Developers
-Developed by **alexxxzdevelops** and the **TheFCProject** team.
+Developed by **mattd_ev** and the **TheFCProject** team.
